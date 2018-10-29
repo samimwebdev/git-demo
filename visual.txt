@@ -1,0 +1,4 @@
+working directory    staging area               commited area
+
+index.html             index.html               index.html
+main.js
